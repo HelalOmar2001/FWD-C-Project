@@ -1,0 +1,8 @@
+﻿  app.c
+C:\Users\Helal\Desktop\embedded C\Cproject\app.c(16,73): warning C4013: 'getch' undefined; assuming extern returning int
+  LINK : 0 new modules and 1 (out of 45) modules have changed since prior linking
+  Starting pass 2
+       app.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  Cproject.vcxproj -> C:\Users\Helal\Desktop\embedded C\Cproject\x64\Debug\Cproject.exe

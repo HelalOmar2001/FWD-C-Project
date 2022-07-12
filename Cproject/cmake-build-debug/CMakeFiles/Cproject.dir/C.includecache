@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Helal/Desktop/embedded C/Cproject/card.h
+macros.h
+C:/Users/Helal/Desktop/embedded C/Cproject/macros.h
+string.h
+-
+
+C:/Users/Helal/Desktop/embedded C/Cproject/macros.h
+
+C:/Users/Helal/Desktop/embedded C/Cproject/main.c
+stdio.h
+-
+macros.h
+C:/Users/Helal/Desktop/embedded C/Cproject/macros.h
+terminal.h
+C:/Users/Helal/Desktop/embedded C/Cproject/terminal.h
+
+C:/Users/Helal/Desktop/embedded C/Cproject/terminal.c
+terminal.h
+C:/Users/Helal/Desktop/embedded C/Cproject/terminal.h
+
+C:/Users/Helal/Desktop/embedded C/Cproject/terminal.h
+macros.h
+C:/Users/Helal/Desktop/embedded C/Cproject/macros.h
+card.h
+C:/Users/Helal/Desktop/embedded C/Cproject/card.h
+time.h
+C:/Users/Helal/Desktop/embedded C/Cproject/time.h
+string.h
+C:/Users/Helal/Desktop/embedded C/Cproject/string.h
+
